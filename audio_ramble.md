@@ -1,8 +1,9 @@
 ---
-topic: music
 title: equalizer config
 description: A reminder on how to configure my EQ for headphones
-tags: ["equalizer", "music"]
+tags:
+  - equalizer
+  - music
 ---
 
 # Equalizing headphones

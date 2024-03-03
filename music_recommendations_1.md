@@ -1,8 +1,9 @@
 ---
-topic: music
 title: 1- music recommendations
 description: 19/1/24 music recommendations
-tags: ["recommendations", "music"]
+tags:
+  - recommendations
+  - music
 ---
 
 # Music Recommendations
