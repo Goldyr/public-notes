@@ -10,7 +10,7 @@ date: 29.06.2023
 
 ## Ramble
 
-This is like the 4th time I have to do a small research on how to do this, so im gonna keep some of my findings and instructions here. Im not an audio technician just someone who likes music
+This is like the 4th time I have to do a small research on how to do this, so im gonna keep some of my findings and instructions here for a fast setup.
 
 ## Whats an EQ
 
